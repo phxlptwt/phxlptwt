@@ -1,15 +1,7 @@
-# Welcome to My README.md 🤔
+# This is ./phxlptwt repository
 
-
-**phxlptwt/phxlptwt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently an undegraduate pursuing Mechanical Engineering in SJTU, working on ... (undecided)
-- 🌱 I’m currently learning Python, MATLAB, C and C++
-- 👯 I’m looking to collaborate on ... (nothing yet so far)
-- 🤔 I’m looking for help with ... (everything in programming)
-- 💬 Ask me about ... (anything)
-- 📫 How to reach me: ... (ptjuatja@sjtu.edu.cn)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I like to eat and sleep.  
+## Contents
+- `sdg25` contains the source code for the analysis of _tauc plots_ using MATLAB.
+- `stat1000j` contains the source code and datasets for the analysis of NYSE from 2010-2016.
+- `vg101` contains the cheatsheets to the class of VG101 25SU: Introduction to Computers and Programming.
+- `vp141` contains the source code for the linear and best fit curves of the experimental data collected in VP141: Physics Laboratory I.
